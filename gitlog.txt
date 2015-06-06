@@ -1,0 +1,11 @@
+commit e7959ee6462709228abff3d578334541c4ae4748
+Author: tjcbs <tjcbs2@yahoo.com>
+Date:   Sat Jun 6 15:00:11 2015 -0700
+
+    added nonsense
+
+commit ce9bcbef55f419e71ddab787b6ee66936b4d1cdf
+Author: tjcbs <tjcbs2@yahoo.com>
+Date:   Sat Jun 6 14:48:21 2015 -0700
+
+    add unix notes
