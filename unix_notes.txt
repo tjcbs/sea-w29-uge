@@ -16,6 +16,7 @@
     2  ls
     3  history
     4  history
+    # opened history in pager
     5  history > less
     6  ls
     7  rm less
