@@ -1,0 +1,31 @@
+    #output shell history
+    1  history
+    #list directory contents
+    2  ls
+    3  history
+    4  history
+    5  history > less
+    6  ls
+    7  rm less
+    8  less
+    # | = pipe to input to another
+    9  ls | less
+    # > = redirect to file
+   10  history > myHist.txt
+    1  history
+    2  ls
+    3  history
+    4  history
+    5  history > less
+    6  ls
+    7  rm less
+    8  less
+    9  ls | less
+   10  history > myHist.txt
+   11  ls
+   12  history
+   13  cat myHist.txt
+   14  cat aa
+   15  cat bb
+   # concatenate
+   16  history >> myHist.txt

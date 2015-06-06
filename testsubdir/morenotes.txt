@@ -1,0 +1,51 @@
+    1  history 
+    2  ls
+    3  history
+    4  history
+    5  history > less
+    6  ls
+    7  rm less
+    8  less
+    9  ls | less
+   10  history > myHist.txt
+   11  ls
+   12  history
+   13  cat myHist.txt 
+   14  cat aa
+   15  cat bb
+   16  history >> myHist.txt 
+   17  cat myHist.txt 
+   18  subl myHist.txt 
+   19  mkdir uge_workshop
+   20  mv myHist.txt uge_workshop/
+   21  cd uge_workshop/
+   22  mv myHist.txt unix_notes.txt
+   23  ls
+   24  git
+   25  git config
+   26  git init
+   27  ls
+   28  ls -x
+   29  ls -h
+   30  ls -a
+   31  cd .git/
+   32  ls
+   33  cd ..
+   34  git status
+   35  git add unix_notes.txtx
+   36  git add unix_notes.*
+   37  git status
+   38  ls
+   39  git commit
+   40  git commit notes
+   41  git commit "notes"
+   42  git status
+   43  mkdir test
+   44  history > test\subdir
+   45  git status
+   46  ls -l
+   47  del
+   48  rm testsubdir 
+   49  mkdir testsubdir
+   50  cd testsubdir
+   51  history > morenotes
