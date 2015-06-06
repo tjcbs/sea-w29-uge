@@ -1,0 +1,19 @@
+    1  ls
+    2  cd uge_workshop/
+    3  git_status
+    4  git status
+    5  git commit -m "added nonsense"
+    6  git status
+    7  git commit -m "added nonsense"
+    8  git history
+    9  git log
+   10  git log > gitlog.txt
+   11  git status
+   12  git add (
+   13  git add *
+   14  git commit -m "git log"
+   15  git log
+   16  git branch git-notes
+   17  git branch
+   18  git checkout git-notes
+   19  history > uge_notes.txt
